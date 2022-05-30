@@ -35,6 +35,8 @@ function sojib() {
     function sojib2(sajib) {
 
         var romanToNum = {
+            MC:100000000,
+            N:100000,
             M: 1000,
             CM: 900,
             d: 500,
